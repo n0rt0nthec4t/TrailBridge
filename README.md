@@ -98,8 +98,6 @@ For bugs and device compatibility reports, [open an issue](https://github.com/n0
 
 Remove personal paths, device serial numbers, and location or health data before sharing logs or screenshots. Use a synthetic example rather than attaching a personal activity file.
 
-For private enquiries or security reports, contact **[mark@n0rt0nthec4t.dev](mailto:mark@n0rt0nthec4t.dev)**.
-
 ## About This Repository
 
 This repository hosts TrailBridge downloads, release notes, and public support. The application's source is maintained privately. Artwork and screenshots are hosted by the [TrailBridge website](https://n0rt0nthec4t.dev/trailbridge/).
