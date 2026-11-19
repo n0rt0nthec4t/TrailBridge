@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/n0rt0nthec4t/TrailBridge/releases"><img src="https://img.shields.io/github/v/release/n0rt0nthec4t/TrailBridge?include_prereleases&amp;label=release&amp;color=FF9800" alt="Latest release, including betas"></a>
+  <a href="https://github.com/n0rt0nthec4t/TrailBridge/releases" title="Total release asset downloads, including checksum files"><img src="https://img.shields.io/github/downloads/n0rt0nthec4t/TrailBridge/total?color=354f63" alt="Total downloads"></a>
   <img src="https://img.shields.io/badge/macOS-15%2B-64748b?logo=apple&amp;logoColor=white" alt="Requires macOS 15 or later">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/n0rt0nthec4t/TrailBridge?color=4CAF50" alt="MIT License"></a>
 </p>
