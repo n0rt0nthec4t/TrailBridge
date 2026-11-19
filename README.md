@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.buymeacoffee.com/n0rt0nthec4t"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buymeacoffee&amp;logoColor=black" alt="Buy Me a Coffee"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/n0rt0nthec4t/TrailBridge/releases"><b>Download TrailBridge</b></a> ·
   <a href="https://n0rt0nthec4t.dev/trailbridge/">Website</a> ·
   <a href="#support">Support</a>
@@ -95,12 +99,6 @@ For bugs and device compatibility reports, [open an issue](https://github.com/n0
 Remove personal paths, device serial numbers, and location or health data before sharing logs or screenshots. Use a synthetic example rather than attaching a personal activity file.
 
 For private enquiries or security reports, contact **[mark@n0rt0nthec4t.dev](mailto:mark@n0rt0nthec4t.dev)**.
-
-### Support Development
-
-<p>
-  <a href="https://www.buymeacoffee.com/n0rt0nthec4t"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buymeacoffee&amp;logoColor=black" alt="Buy Me a Coffee"></a>
-</p>
 
 ## About This Repository
 
