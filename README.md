@@ -15,16 +15,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/n0rt0nthec4t/TrailBridge/releases"><b>Download the beta</b></a> ·
+  <a href="https://github.com/n0rt0nthec4t/TrailBridge/releases"><b>Download TrailBridge</b></a> ·
   <a href="https://n0rt0nthec4t.dev/trailbridge/">Website</a> ·
   <a href="#support">Support</a>
 </p>
 
 Browse your Garmin in Finder, copy activities to your Mac, send courses to your device, and preview routes with Quick Look. TrailBridge is a native macOS menu bar app for supported Garmin USB/MTP devices.
 
-**TrailBridge is in early testing.** The **Garmin Edge 1040** is the main reference device; other Garmin MTP models still need testing. Downloads are Developer ID-signed and notarized by Apple, with a SHA-256 checksum included in each release.
-
 ## Getting Started
+
+Downloads are Developer ID-signed and notarized by Apple. Each release includes a SHA-256 checksum.
 
 1. Download `TrailBridge-<version>.dmg` from [Releases](https://github.com/n0rt0nthec4t/TrailBridge/releases).
 2. Open the disk image and drag **TrailBridge** into **Applications**.
@@ -37,7 +37,7 @@ Keep TrailBridge open while browsing or transferring files. Right-click or Optio
 ### Requirements
 
 - **macOS 15 or later**, on Apple silicon or Intel.
-- A Garmin device that exposes a **USB MTP interface**. Current testing focuses on the Edge 1040.
+- A supported Garmin device that exposes a **USB MTP interface**.
 - A **USB data cable**.
 - Internet access for Quick Look map backgrounds. Route outlines and thumbnails can be drawn offline.
 
