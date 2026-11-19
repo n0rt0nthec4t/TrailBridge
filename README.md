@@ -6,7 +6,7 @@ TrailBridge is a macOS menu bar app for browsing supported Garmin USB/MTP device
 
 ## Download
 
-Download the DMG from [Releases](https://github.com/n0rt0nthec4t/TrailBridge-downloads/releases). The first signed release is being prepared; if no release is listed, there is no download available yet.
+The first testing prerelease is [TrailBridge 1.0.0-beta.1](https://github.com/n0rt0nthec4t/TrailBridge-downloads/releases/tag/v1.0.0-beta.1). Download its DMG and SHA-256 checksum from the release page. This is an early beta; testing currently focuses on the Garmin Edge 1040.
 
 Each release includes user-facing release notes and a SHA-256 checksum. The app requires **macOS 15 or later**. Testing currently focuses on the **Garmin Edge 1040**; other Garmin MTP devices still need testing.
 
@@ -32,4 +32,4 @@ Report problems using [Issues](https://github.com/n0rt0nthec4t/TrailBridge-downl
 
 This repository hosts downloads and release notes. The application's source is maintained privately. TrailBridge is not affiliated with Garmin or Apple.
 
-Copyright (c) 2026 Mark Hulskamp. All rights reserved.
+Copyright (c) 2026 Mark Hulskamp. Licensed under the [MIT License](LICENSE).
