@@ -99,7 +99,6 @@ For private enquiries or security reports, contact **[mark@n0rt0nthec4t.dev](mai
 ### Support Development
 
 <p>
-  <a href="https://github.com/sponsors/n0rt0nthec4t"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?logo=githubsponsors&amp;logoColor=white" alt="GitHub Sponsors"></a>
   <a href="https://www.buymeacoffee.com/n0rt0nthec4t"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buymeacoffee&amp;logoColor=black" alt="Buy Me a Coffee"></a>
 </p>
 
