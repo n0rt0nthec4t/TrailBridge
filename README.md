@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://n0rt0nthec4t.dev/trailbridge/"><img src="https://n0rt0nthec4t.dev/assets/trailbridge/trailbridge-art-transparent.png" alt="TrailBridge — a route across topographic contours, from a green start to a red finish" width="420"></a>
+  <a href="https://n0rt0nthec4t.dev/trailbridge/"><img src="https://n0rt0nthec4t.dev/assets/trailbridge/trailbridge-art.png" alt="TrailBridge — a route across topographic contours, from a green start to a red finish" width="420"></a>
 </p>
 
 <h1 align="center">TrailBridge</h1>
